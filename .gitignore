@@ -1,0 +1,4 @@
+node_modlues/
+*.log
+/.vs
+.vs/
