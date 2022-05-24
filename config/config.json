@@ -1,0 +1,29 @@
+{
+  
+  "development": {
+      "host": "novaflogamebook-instance-1-ap-northeast-2c.chqjmvmdlebn.ap-northeast-2.rds.amazonaws.com",
+      "username": "gb_master",
+      "password": "gamebook",
+      "database": "nf_gamebook",
+      "port": 3306,
+      "dialect": "mysql"
+    },
+  "stage": {
+      "host": "novaflogamebook-instance-1-ap-northeast-2c.chqjmvmdlebn.ap-northeast-2.rds.amazonaws.com",
+      "username": "gb_master",
+      "password": "gamebook",
+      "database": "nf_gamebook",
+      "port": 3306,
+      "dialect": "mysql"
+    },
+  "production": {
+    "host": "novaflogamebook-instance-1-ap-northeast-2c.chqjmvmdlebn.ap-northeast-2.rds.amazonaws.com",
+    "username": "gb_master",
+    "password": "gamebook",
+    "database": "nf_gamebook",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
+
+
